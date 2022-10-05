@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srihari1212
-- 👀 I’m interested in Data science and web development 
-- 🌱 I’m currently learning M.Sc Decision and Computing Sciences
-- 💞️ I’m looking to kick start my carrer in data science
+- 👀 I’m interested in Data science and python development 
+- 🌱 Student of Data and Computational Science in UCD, Ireland
+- 💞️ I’m looking to kick start my carrer in the field of data science
 - 📫 You can reach me on https://bit.ly/34R7lrj
 
 <!---
